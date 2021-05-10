@@ -1,0 +1,11 @@
+<%- include('partials/header') %>
+
+<h1>Liste des scientifiques</h1>
+<ul class="cards">
+    <% for(const promo of promos) { %>
+        <li class="card card--label"><a href="/promo/<%=promo.id%>/students"><%=promo.name%></a></li>
+    <% } %>
+    
+</ul>
+
+<%- include('partials/footer') %>

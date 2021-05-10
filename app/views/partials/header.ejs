@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>L'annuaire des scientifiques</title>
+    <link rel="stylesheet" href="https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/css/bootstrap-reboot.css">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+    <header>
+        <h1>L'annuaire des scientifiques</h1>
+        <nav>
+            <ul>
+                <li><a href="/">Accueil</a></li>
+                <li><a href="/promos">Liste des scientifiques</a></li>
+                <li><a href="/history">Historique</a></li>
+                <% if(!locals.login) { %>
+                    <li><a href="/login">Se connecter</a></li>
+                <% } else { %>
+                    <li>Bonjour <%=locals.login.username%></li>
+                    <li><a href="/logout">Se deconnecter</a></li>
+                <% } %>
+            </ul>
+        </nav>
+    </header>
+    <main>

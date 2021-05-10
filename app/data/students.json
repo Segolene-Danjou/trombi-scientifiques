@@ -1,0 +1,527 @@
+[
+	{
+		"id": "1",
+		"first_name": "Louis",
+		"last_name": "Agassiz",
+		"promo": "1"
+	},
+	{
+		"id": "2",
+		"first_name": "Maria Gaetana",
+		"last_name": "Agnesi",
+		"promo": "1"
+	},
+	{
+		"id": "3",
+		"first_name": "",
+		"last_name": "Al-Battani",
+		"promo": "1"
+	},
+	{
+		"id": "4",
+		"first_name": "Abu Nasr",
+		"last_name": "Al-Farabi",
+		"promo": "1"
+	},
+	{
+		"id": "5",
+		"first_name": "Alhazen",
+		"last_name": "",
+		"promo": "1"
+	},
+	{
+		"id": "6",
+		"first_name": "Jim",
+		"last_name": "Al-Khalili",
+		"promo": "1"
+	},
+	{
+		"id": "7",
+		"first_name": "Muhammad ibn Musa",
+		"last_name": "al-Khwarizmi",
+		"promo": "1"
+	},
+	{
+		"id": "8",
+		"first_name": "Mihailo Petrovic",
+		"last_name": "Alas",
+		"promo": "1"
+	},
+	{
+		"id": "9",
+		"first_name": "Angel",
+		"last_name": "Alcala",
+		"promo": "1"
+	},
+	{
+		"id": "10",
+		"first_name": "Salim",
+		"last_name": "Ali",
+		"promo": "1"
+	},
+	{
+		"id": "11",
+		"first_name": "Luis",
+		"last_name": "Alvarez",
+		"promo": "1"
+	},
+	{
+		"id": "12",
+		"first_name": "Andre Marie",
+		"last_name": "Ampère",
+		"promo": "1"
+	},
+	{
+		"id": "13",
+		"first_name": "",
+		"last_name": "Anaximander",
+		"promo": "1"
+	},
+	{
+		"id": "14",
+		"first_name": "Carl",
+		"last_name": "Anderson",
+		"promo": "1"
+	},
+	{
+		"id": "15",
+		"first_name": "Mary",
+		"last_name": "Anning",
+		"promo": "1"
+	},
+	{
+		"id": "16",
+		"first_name": "Virginia",
+		"last_name": "Apgar",
+		"promo": "1"
+	},
+	{
+		"id": "17",
+		"first_name": "",
+		"last_name": "Archimedes",
+		"promo": "1"
+	},
+	{
+		"id": "18",
+		"first_name": "Agnes",
+		"last_name": "Arber",
+		"promo": "1"
+	},
+	{
+		"id": "19",
+		"first_name": "",
+		"last_name": "Aristarchus",
+		"promo": "1"
+	},
+	{
+		"id": "20",
+		"first_name": "",
+		"last_name": "Aristotle",
+		"promo": "1"
+	},
+	{
+		"id": "21",
+		"first_name": "Svante",
+		"last_name": "Arrhenius",
+		"promo": "1"
+	},
+	{
+		"id": "22",
+		"first_name": "Oswald",
+		"last_name": "Avery",
+		"promo": "1"
+	},
+	{
+		"id": "23",
+		"first_name": "Amedeo",
+		"last_name": "Avogadro",
+		"promo": "1"
+	},
+	{
+		"id": "24",
+		"first_name": "",
+		"last_name": "Avicenna",
+		"promo": "1"
+	},
+	{
+		"id": "25",
+		"first_name": "Charles",
+		"last_name": "Babbage",
+		"promo": "2"
+	},
+	{
+		"id": "26",
+		"first_name": "Francis",
+		"last_name": "Bacon",
+		"promo": "2"
+	},
+	{
+		"id": "27",
+		"first_name": "Alexander",
+		"last_name": "Bain",
+		"promo": "2"
+	},
+	{
+		"id": "28",
+		"first_name": "John Logie",
+		"last_name": "Baird",
+		"promo": "2"
+	},
+	{
+		"id": "29",
+		"first_name": "Joseph",
+		"last_name": "Banks",
+		"promo": "2"
+	},
+	{
+		"id": "30",
+		"first_name": "Ramon",
+		"last_name": "Barba",
+		"promo": "2"
+	},
+	{
+		"id": "31",
+		"first_name": "John",
+		"last_name": "Bardeen",
+		"promo": "2"
+	},
+	{
+		"id": "32",
+		"first_name": "Charles",
+		"last_name": "Barkla",
+		"promo": "2"
+	},
+	{
+		"id": "33",
+		"first_name": "Ibn",
+		"last_name": "Battuta",
+		"promo": "2"
+	},
+	{
+		"id": "34",
+		"first_name": "William",
+		"last_name": "Bayliss",
+		"promo": "2"
+	},
+	{
+		"id": "35",
+		"first_name": "George",
+		"last_name": "Beadle",
+		"promo": "2"
+	},
+	{
+		"id": "36",
+		"first_name": "Arnold Orville",
+		"last_name": "Beckman",
+		"promo": "2"
+	},
+	{
+		"id": "37",
+		"first_name": "Henri",
+		"last_name": "Becquerel",
+		"promo": "2"
+	},
+	{
+		"id": "38",
+		"first_name": "Emil Adolf",
+		"last_name": "Behring",
+		"promo": "2"
+	},
+	{
+		"id": "39",
+		"first_name": "Alexander Graham",
+		"last_name": "Bell",
+		"promo": "2"
+	},
+	{
+		"id": "40",
+		"first_name": "Emile",
+		"last_name": "Berliner",
+		"promo": "2"
+	},
+	{
+		"id": "41",
+		"first_name": "Claude",
+		"last_name": "Bernard",
+		"promo": "2"
+	},
+	{
+		"id": "42",
+		"first_name": "Timothy John",
+		"last_name": "Berners-Lee",
+		"promo": "2"
+	},
+	{
+		"id": "43",
+		"first_name": "Daniel",
+		"last_name": "Bernoulli",
+		"promo": "2"
+	},
+	{
+		"id": "44",
+		"first_name": "Jacob",
+		"last_name": "Berzelius",
+		"promo": "2"
+	},
+	{
+		"id": "45",
+		"first_name": "Henry",
+		"last_name": "Bessemer",
+		"promo": "2"
+	},
+	{
+		"id": "46",
+		"first_name": "Hans",
+		"last_name": "Bethe",
+		"promo": "2"
+	},
+	{
+		"id": "47",
+		"first_name": "Homi Jehangir",
+		"last_name": "Bhabha",
+		"promo": "2"
+	},
+	{
+		"id": "48",
+		"first_name": "Alfred",
+		"last_name": "Binet",
+		"promo": "2"
+	},
+	{
+		"id": "49",
+		"first_name": "Clarence",
+		"last_name": "Birdseye",
+		"promo": "2"
+	},
+	{
+		"id": "50",
+		"first_name": "Kristian",
+		"last_name": "Birkeland",
+		"promo": "2"
+	},
+	{
+		"id": "51",
+		"first_name": "James",
+		"last_name": "Black",
+		"promo": "2"
+	},
+	{
+		"id": "52",
+		"first_name": "Elizabeth",
+		"last_name": "Blackwell",
+		"promo": "2"
+	},
+	{
+		"id": "53",
+		"first_name": "Alfred",
+		"last_name": "Blalock",
+		"promo": "2"
+	},
+	{
+		"id": "54",
+		"first_name": "Katharine Burr",
+		"last_name": "Blodgett",
+		"promo": "2"
+	},
+	{
+		"id": "55",
+		"first_name": "Franz",
+		"last_name": "Boas",
+		"promo": "2"
+	},
+	{
+		"id": "56",
+		"first_name": "David",
+		"last_name": "Bohm",
+		"promo": "2"
+	},
+	{
+		"id": "57",
+		"first_name": "Aage",
+		"last_name": "Bohr",
+		"promo": "2"
+	},
+	{
+		"id": "58",
+		"first_name": "Niels",
+		"last_name": "Bohr",
+		"promo": "2"
+	},
+	{
+		"id": "59",
+		"first_name": "Ludwig",
+		"last_name": "Boltzmann",
+		"promo": "2"
+	},
+	{
+		"id": "60",
+		"first_name": "Max",
+		"last_name": "Born",
+		"promo": "2"
+	},
+	{
+		"id": "61",
+		"first_name": "Carl",
+		"last_name": "Bosch",
+		"promo": "2"
+	},
+	{
+		"id": "62",
+		"first_name": "Robert",
+		"last_name": "Bosch",
+		"promo": "2"
+	},
+	{
+		"id": "63",
+		"first_name": "Jagadish Chandra",
+		"last_name": "Bose",
+		"promo": "2"
+	},
+	{
+		"id": "64",
+		"first_name": "Satyendra Nath",
+		"last_name": "Bose",
+		"promo": "2"
+	},
+	{
+		"id": "65",
+		"first_name": "Walther Wilhelm Georg",
+		"last_name": "Bothe",
+		"promo": "2"
+	},
+	{
+		"id": "66",
+		"first_name": "Robert ",
+		"last_name": "Boyle",
+		"promo": "2"
+	},
+	{
+		"id": "67",
+		"first_name": "Lawrence",
+		"last_name": "Bragg",
+		"promo": "2"
+	},
+	{
+		"id": "68",
+		"first_name": "Tycho",
+		"last_name": "Brahe",
+		"promo": "2"
+	},
+	{
+		"id": "69",
+		"first_name": "",
+		"last_name": "Brahmagupta",
+		"promo": "2"
+	},
+	{
+		"id": "70",
+		"first_name": "Hennig",
+		"last_name": "Brand",
+		"promo": "2"
+	},
+	{
+		"id": "71",
+		"first_name": "Georg",
+		"last_name": "Brandt",
+		"promo": "2"
+	},
+	{
+		"id": "72",
+		"first_name": "Wernher Von",
+		"last_name": "Braun",
+		"promo": "2"
+	},
+	{
+		"id": "73",
+		"first_name": "J Harlen",
+		"last_name": "Bretz",
+		"promo": "2"
+	},
+	{
+		"id": "74",
+		"first_name": "Louis de",
+		"last_name": "Broglie",
+		"promo": "2"
+	},
+	{
+		"id": "75",
+		"first_name": "Alexander",
+		"last_name": "Brongniart",
+		"promo": "2"
+	},
+	{
+		"id": "76",
+		"first_name": "Robert",
+		"last_name": "Brown",
+		"promo": "2"
+	},
+	{
+		"id": "77",
+		"first_name": "Michael E.",
+		"last_name": "Brown",
+		"promo": "2"
+	},
+	{
+		"id": "78",
+		"first_name": "Lester R.",
+		"last_name": "Brown",
+		"promo": "2"
+	},
+	{
+		"id": "79",
+		"first_name": "Eduard",
+		"last_name": "Buchner",
+		"promo": "2"
+	},
+	{
+		"id": "80",
+		"first_name": "Linda",
+		"last_name": "Buck",
+		"promo": "2"
+	},
+	{
+		"id": "81",
+		"first_name": "William",
+		"last_name": "Buckland",
+		"promo": "2"
+	},
+	{
+		"id": "82",
+		"first_name": "Georges-Louis Leclerc",
+		"last_name": " Comte de ",
+		"promo": "Buffon"
+	},
+	{
+		"id": "83",
+		"first_name": "Robert",
+		"last_name": "Bunsen",
+		"promo": "2"
+	},
+	{
+		"id": "84",
+		"first_name": "Luther",
+		"last_name": "Burbank",
+		"promo": "2"
+	},
+	{
+		"id": "85",
+		"first_name": "Jocelyn Bell",
+		"last_name": "Burnell",
+		"promo": "2"
+	},
+	{
+		"id": "86",
+		"first_name": "Macfarlane",
+		"last_name": "Burnet",
+		"promo": "2"
+	},
+	{
+		"id": "87",
+		"first_name": "Thomas",
+		"last_name": "Burnet",
+		"promo": "2"
+	},
+	{
+		"id": ""
+	}
+]

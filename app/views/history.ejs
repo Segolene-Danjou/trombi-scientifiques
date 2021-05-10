@@ -1,0 +1,10 @@
+<%- include('partials/header') %>
+
+<h2>Historique</h2>
+<ul>
+    <% for(const url of history) { %>
+    <li><%=url%></li>
+    <% } %>
+</ul>
+
+<%- include('partials/footer') %>
